@@ -1,4 +1,4 @@
-# double-check
+# Double Check
 
 A Claude skill that pauses before processing a non-trivial instruction and asks 1–3 targeted clarifying questions — but only when the answer would meaningfully change the output. The goal is to spend a few tokens asking instead of many tokens producing the wrong thing.
 
